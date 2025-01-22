@@ -20,11 +20,11 @@ body {
 }
 @font-face {
   font-family: Kode Mono;
-  src: url("./KodeMono-VariableFont_wght.TTF") format('truetype');
+  src: url("./KodeMono-VariableFont_wght.ttf") format('truetype');
 }
 @font-face {
   font-family: Epilogue;
-  src: url("./Epilogue-VariableFont_wght.TTF")format('truetype');
+  src: url("./Epilogue-VariableFont_wght.ttf")format('truetype');
 }
 .logo {
   display: inline-block;
